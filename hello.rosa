@@ -1,0 +1,3 @@
+fact sky_is_blue
+message := "Hello Rosa!"
+print message
